@@ -1,2 +1,2 @@
 # S.H.O.G.U.N---Self-guided-High-torque-Offensive-Grappling-Unit-for-Neutralization
-S.H.O.G.U.N - Self-guided High-torque Offensive Grappling Unit for Neutralization
+The name is a mouthful, trust me ik (Wanted a cool acronym and then figured out the full form lmao) It is basically an attempt at a wireless (and somewhat autonomous) vehicle engineered out of solid wood, with a 3-axis robotic arm at the top and a camera feed to my laptop (later down the line a Raspberry Pi 4) for object detection and path routing operations to clearly navigate and remove any object that blocks the path (using the robotic arm). It can be marketed as either an interplanetary autonomous rover or a hazardous-material remover (for Places that are unsafe for humans).
